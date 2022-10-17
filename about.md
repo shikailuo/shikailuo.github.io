@@ -47,15 +47,15 @@ date: 2022-10-17
 
 <p>邮箱：sluo198912@163.com
 	<!--a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：蒙古海军船长</a><img id="img2" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/kanggzh.png" style="display:none;" width="128" height="128" -->
-<div class="divcss5-right">
+<!-- <div class="divcss5-right">
 	<a href="https://robotkang.cc" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/logo/robotkang.png
 " width="270" height="71" alt="kang"/></a>
-</div>                      
+</div>                       -->
        
 <!--a href="/Mr.Kang_Developer/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/resume_pic.png" width="100%" height="auto" alt="photos" display="block"/></a--> 
 
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/0000001.webp" wwidth="100%" height="auto" alt="photos"/>          
+<!-- <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/0000001.webp" wwidth="100%" height="auto" alt="photos"/>           -->
         
 
-<a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
+<!-- <a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>   -->
 
