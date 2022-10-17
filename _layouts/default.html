@@ -9,7 +9,7 @@
       <div class="nav_container">
          <nav class="nav-menu-item" style = "float:right">
             <i class="nav-menu-item">
-              <a href="/#blog" title="{{site.blog_button.description}}" class="blog-button">  {{site.blog_button.title}}
+              <a href="/blog" title="{{site.blog_button.description}}" class="blog-button">  {{site.blog_button.title}}
               </a>
             </i>
             {% for item in site.nav %}
@@ -48,7 +48,7 @@
 var a_idx = 0;
 jQuery(document).ready(function($) {
  $("body").click(function(e) {
- var a = new Array("富强", "民主", "文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "友善");
+ var a = new Array("格物", "致知", "正心", "诚意", "修身", "齐家", "治国" ,"平天下");
  var $i = $("<span/>").text(a[a_idx]);
  a_idx = (a_idx + 1) % a.length;
  var x = e.pageX,

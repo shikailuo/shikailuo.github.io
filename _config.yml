@@ -53,7 +53,7 @@ blog_button:
 # Navigation buttons in the front page.s
 nav:
     - {title: 文章, description: articles, url: '/articles'}   
-    - {title: 标签, description: tags, url: '/tags'} 
+    # - {title: 标签, description: tags, url: '/tags'} 
     # - {title: 留言, description: messages, url: '/messages'}
     # - {title: 资源, description: resources, url: '/resources'}
     - {title: 关于, description: about, url: '/about'}
