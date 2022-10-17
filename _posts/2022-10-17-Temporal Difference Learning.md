@@ -2,8 +2,8 @@
 layout:     post
 title:      Reinforcement Learning-An Introduction Chapter6
 subtitle:   Temporal Difference Learning
-date:       2021-05-11
-author:     Le Yuan
+date:       2022-10-17
+author:     Shadow
 header-img: img/wolf.jpg
 catalog: true
 tags:
