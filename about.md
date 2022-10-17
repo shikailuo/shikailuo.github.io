@@ -3,7 +3,7 @@ layout: page
 title: 关于我「ABOUT ME」 
 date: 2021-05-04
 ---
-<a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%A9%E7%AD%96.png" width="150" height="150" alt="photos"/></a>
+<!-- <a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%A9%E7%AD%96.png" width="150" height="150" alt="photos"/></a> -->
 
 
 一个<span style="text-decoration: line-through">刚刚走出</span>已出走四年多象牙塔的 Maker。<a href="/Mr.Kang_Developer/" target="_blank" style="text-decoration:none">「我的简历」</a>
@@ -13,10 +13,7 @@ date: 2021-05-04
 </p>
 </div>
 <p>
-平时喜欢整理个人博客，逛逛技术论坛 💯     
-<p>
-喜欢日本，想着如果有机会一定会去日本生活一段时间        
-<div style="color:#008B00">
+平时喜欢整理个人博客，逛逛技术论坛 💯 
 <p>
 喜欢Spoken English，虽然现在很渣，但一直在努力...        
 </p>
@@ -25,7 +22,7 @@ date: 2021-05-04
 <p>
 同时喜欢老罗和晓松，虽然他俩还撕逼，罗跟谁不撕逼，爱听老罗的单口相声           
 <p>
-I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, this website   is a window which used to present the color of my life.       
+Life is colorful, this website   is a window which used to present the color of my life.       
 
 <p>
 <h3> PastTime</h3>   
@@ -45,30 +42,6 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 
 <p>
 
-<!--h3> Ps </h3>   
-<p>
-如果你想搭建一个跟我一样的博客，可以看
-<a href="https://robotkang.cc/1733.html"> Jekyll+Github个人博客构建之路 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 😄    
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog-theme' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~         
-<p>
-
-<div style="color:#FF0000">
-<p>
-♻模板代码可任意使用，但请保留本站友情链接。👣   
-&emsp;      
-本站名称：Robotkang &emsp;        
-本站网址：https://www.robotkang.cc &emsp;         
-</p>
-</div-->
-
 <h3> 联系方式 </h3>         
 <script>
 	function mousemethod(op,imgid){
@@ -76,7 +49,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 	}
 </script>
 
-<p>邮箱：hayato9407@gmail.com
+<p>邮箱：sluo198912@163.com
 	<!--a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：蒙古海军船长</a><img id="img2" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/kanggzh.png" style="display:none;" width="128" height="128" -->
 <div class="divcss5-right">
 	<a href="https://robotkang.cc" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/logo/robotkang.png
@@ -84,7 +57,6 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 </div>                      
        
 <!--a href="/Mr.Kang_Developer/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/resume_pic.png" width="100%" height="auto" alt="photos" display="block"/></a--> 
-
 
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/0000001.webp" wwidth="100%" height="auto" alt="photos"/>          
         
