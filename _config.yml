@@ -12,7 +12,7 @@ github_repo: "https://github.com/shikailuo/shikailuo.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "道可道，非常道"
-sidebar-avatar: /img/sidebar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
@@ -23,8 +23,6 @@ github_username:    shikailuo
 # facebook_username:  暂无
 # jianshu_username:   暂无
 #twitter_username:   暂无
-
-
 
 
 # Build settings
@@ -39,8 +37,6 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 plugins: [jekyll-paginate]
-
-
 
 
 # Markdown settings
