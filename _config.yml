@@ -1,11 +1,11 @@
 # Basic
 title: Shadow
 subtitle: 欢迎走进我的世界
-description: 科技、生活、音乐、人生
+description: 算法、人生
 # 头像里面的标题
 avatarTitle: Shadow
 # 头像里面的描述
-avatarDesc: 道
+avatarDesc: 道可道非常道
 # url: "https://robotkang.cc"
 
 # Comment
@@ -23,14 +23,6 @@ social:
     mail: 
     csdn: 
 
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/MengZheK/kangblog.github.io
-#
-#
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
@@ -73,7 +65,3 @@ paginate: 20
 paginate_path: "page/:num/"
 
 future: true
-
-
-
-
