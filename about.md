@@ -4,9 +4,11 @@ title: 关于我「ABOUT ME」
 date: 2021-05-04
 ---
 
+这人太懒，还没想好写神马
+
 <!-- <a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%A9%E7%AD%96.png" width="150" height="150" alt="photos"/></a> -->
 
-
+<!-- 
 一个<span style="text-decoration: line-through">刚刚走出</span>已出走四年多象牙塔的 Maker。
 <!-- <a href="/Mr.Kang_Developer/" target="_blank" style="text-decoration:none">「我的简历」</a> -->
 
@@ -24,12 +26,14 @@ date: 2021-05-04
 <p>
 同时喜欢老罗和晓松，虽然他俩还撕逼，罗跟谁不撕逼，爱听老罗的单口相声           
 <p>
-Life is colorful, this website   is a window which used to present the color of my life.       
+Life is colorful, this website   is a window which used to present the color of my life.        -->
 
 <p>
 <h3> PastTime</h3>   
 
-<p>
+这人太懒，还没想好写神马
+
+<!-- <p>
 
 也许你听说过，「业余时间决定人生」；也许你还听说过，「听过很多道理，依然过不好这一生」。书籍、代码、博客、运动、电影、美剧、游戏，这就是我的业余生活。            
 
@@ -42,7 +46,7 @@ Life is colorful, this website   is a window which used to present the color of 
 <p>
 趁我在还能看得进书写得动代码的年纪，努力一回💪，看看这平庸的资质究竟能发挥几分。
 
-<p>
+<p> -->
 
 <h3> 联系方式 </h3>         
 <script>
