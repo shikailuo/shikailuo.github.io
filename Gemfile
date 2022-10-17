@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-gem 'redcarpet'
 gem 'jekyll-paginate'
-gem 'jekyll-sitemap'
-gem "kramdown", ">=2.3.0"
-gem "github-pages", "~> 208"
+
+gem "jekyll", "~> 4.1.0"
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+gem 'kramdown', '>=2.3.0'

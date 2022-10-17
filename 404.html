@@ -1,19 +1,25 @@
-﻿<!DOCTYPE html>
+---
+layout: default
+description: "你来到了没有知识的荒原 🙊"
+header-img: "img/404-bg.jpg"
+permalink: /404.html
+---
 
-<html lang="zh-cn">
 
-<head>
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading" id="tag-heading">
+					<h1>404</h1>
+					<span class="subheading">{{ page.description }}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
 
-<meta charset="UTF-8" />
-
-<title>404错误 - 您所访问的页面未找到</title>
-
-</head>
-
-<body>
-
-<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" homePageUrl="https://www.robotkang.cc" homePageName="回到主页"></script>
-
-</body>  
-
-</html>
+<script>
+	document.body.classList.add('page-fullscreen');
+</script>

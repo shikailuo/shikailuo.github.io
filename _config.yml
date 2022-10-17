@@ -1,67 +1,88 @@
-# Basic
-title: Shadow
-subtitle: 欢迎走进我的世界
-description: 算法、人生
-# 头像里面的标题
-avatarTitle: Shadow
-# 头像里面的描述
-avatarDesc: 道可道非常道
-url: "shikailuo.github.io"
+# Site settings
+title: Shadow                         # 你博客的标题
+SEOTitle: 欢迎来到我的空间               # 显示在浏览器上搜索的时候显示的标题      
+header-img: img/gubeishuizhen.jpg      # 显示在首页的背景图片
+email: sluo198912@163.com
+description: "道可道非常道"             # 说实话我还没发现这是用在哪的。。。
+keyword: "算法"                         # 貌似也没什么用
+url: "http://shikailuo.github.io/"          # your host, for absolute URL
+baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/shikailuo/shikailuo.github.io.git" # you code repository
 
-# Comment
-comment:
-    provider: duoshuo
-    duoshuo:
-    short_name: shadow
-
-# Social
-social:
-    weibo: 
-    weixing: 
-    github: 
-    # twitter: 
-    mail: 
-    csdn: 
-
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "道可道，非常道"
+sidebar-avatar: /img/sidebar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-# permalink: /:year/:month/:title/
+# SNS settings
+RSS: false
+# weibo_username:     暂无
+# zhihu_username:     暂无
+github_username:    shikailuo
+# facebook_username:  暂无
+# jianshu_username:   暂无
+#twitter_username:   暂无
 
-permalink: /:short_year:i_month:i_day.html
-# 伪 postid 的方案,便于网站 SEO
 
 
-# Format
 
-highlighter: rouge
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+plugins: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
+highlighter: rouge
+#redcarpet:
+#    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-textColor: #FF0000
-
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
-
-# The blog button should not be removed.
-blog_button:
-    title: 主页
-
-# Navigation buttons in the front page.s
-nav:
-    - {title: 文章, description: articles, url: '/articles'}   
-    # - {title: 标签, description: tags, url: '/tags'} 
-    # - {title: 留言, description: messages, url: '/messages'}
-    # - {title: 资源, description: resources, url: '/resources'}
-    - {title: 关于, description: about, url: '/about'}
+  input: GFM                            # use Github Flavored Markdown !important
 
 
-# Pagination
-gems: [jekyll-paginate]
-paginate: 20
-paginate_path: "page/:num/"
 
-future: true
+# Gitalk
+gitalk:
+  enable: false    #是否开启Gitalk评论
+  clientID:                             #生成的clientID
+  clientSecret:     #生成的clientSecret
+  repo: shikailuo.github.io    #仓库名称
+  owner: shikailuo    #github用户名
+  admin: 
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+# # 统计
+
+# # Analytics settings
+# # Baidu Analytics
+# ba_track_id: eaff352c456ac4b5330f0711bc33b556
+# # Google Analytics
+# ga_track_id: 'UA-168715943-1'            # Format: UA-xxxxxx-xx
+# ga_domain:  auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
