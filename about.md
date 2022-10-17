@@ -6,7 +6,7 @@ date: 2022-10-17
 
 这人太懒，还没想好写神马
 
-<!-- <a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%A9%E7%AD%96.png" width="150" height="150" alt="photos"/></a> --> -->
+<!-- <a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%A9%E7%AD%96.png" width="150" height="150" alt="photos"/></a> -->
 
 <!-- 
 一个<span style="text-decoration: line-through">刚刚走出</span>已出走四年多象牙塔的 Maker。
@@ -18,13 +18,13 @@ date: 2022-10-17
 </p>
 
 </div>
+
 <p>
 平时喜欢整理个人博客，逛逛技术论坛 💯 
 <p>
-啥都没有      
-</p>
+啥都没有
 
-</div>
+<div>
 <p>
 最近喜欢读道德经。。。       
 <p>
