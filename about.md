@@ -13,8 +13,10 @@ date: 2022-10-17
 <!-- <a href="/Mr.Kang_Developer/" target="_blank" style="text-decoration:none">「我的简历」</a> -->
 
 <div style="color:#FF6633">
-<p>	啥都没有
+<p>	
+啥都没有
 </p>
+
 </div>
 <p>
 平时喜欢整理个人博客，逛逛技术论坛 💯 
@@ -27,26 +29,14 @@ date: 2022-10-17
 最近喜欢读道德经。。。       
 <p>
 开悟边缘徘徊。。。      
+</p>
 
-<p>
+
 <h3> PastTime</h3>   
 
 这人太懒，还没想好写神马
-
-<!-- <p>
-
-也许你听说过，「业余时间决定人生」；也许你还听说过，「听过很多道理，依然过不好这一生」。书籍、代码、博客、运动、电影、美剧、游戏，这就是我的业余生活。            
-
-
-<div style="color:#708090">
-<p>
-     我的能力就这么多。我若全心工作，则必然忽略生活；我若用心生活，则必然一事无成；我若两者兼顾，又难免平庸
 </p>
-</div>
-<p>
-趁我在还能看得进书写得动代码的年纪，努力一回💪，看看这平庸的资质究竟能发挥几分。
 
-<p> -->
 
 <h3> 联系方式 </h3>         
 <script>
@@ -67,8 +57,5 @@ date: 2022-10-17
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/0000001.webp" wwidth="100%" height="auto" alt="photos"/>          
         
 
-<a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>        
-
-
-
+<a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
 
