@@ -1,9 +1,9 @@
 # Basic
-title: Robotkang
+title: Shadow
 subtitle: 欢迎走进我的世界
 description: 科技、生活、音乐、人生
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Shadow
 # 头像里面的描述
 avatarDesc: 机器人赛事
 url: "https://robotkang.cc"
@@ -12,7 +12,7 @@ url: "https://robotkang.cc"
 comment:
     provider: duoshuo
     duoshuo:
-    short_name: robotkang
+    short_name: shadow
 
 # Social
 social:
